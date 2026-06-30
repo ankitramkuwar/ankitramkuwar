@@ -71,8 +71,7 @@ https://github.com/ankitramkuwar
 
 💼 **LinkedIn**
 
-(www.linkedin.com/in/
-ankit-ramkuwar)
+(www.linkedin.com/in/ankitramkuwar)
 
 🌍 **Live Project**
 
