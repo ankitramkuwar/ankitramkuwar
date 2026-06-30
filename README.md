@@ -1,16 +1,112 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankit Ramkuwar</h1>
 
-<!--
-**ankitramkuwar/ankitramkuwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer • AI Web Application Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern web experiences with JavaScript and AI.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+I'm a self-taught Frontend Developer from **Haryana, India** passionate about creating modern AI-powered web applications.
+
+Currently I'm building **Roid AI**, a personal project focused on delivering fast, responsive, and intelligent web experiences.
+
+I enjoy turning ideas into polished products through clean code, thoughtful UI, and continuous learning.
+
+---
+
+# 🚀 Currently
+
+- 🔭 Building **Roid AI**
+- 🌱 Learning **React**, **TypeScript**, and **Node.js**
+- 💼 Looking for Frontend Developer opportunities
+- ⚡ Passionate about AI-powered web applications
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+- JavaScript
+- HTML5
+- CSS3
+
+### Frontend
+
+- Responsive Web Design
+- Progressive Web Apps (PWA)
+- REST APIs
+- DOM Manipulation
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+### Interests
+
+- Artificial Intelligence
+- UI/UX
+- Product Development
+- Modern Web Applications
+
+---
+
+# 🌐 Connect with Me
+
+📧 **Email**
+
+ankitramkuwar@gmail.com
+
+🐙 **GitHub**
+
+https://github.com/ankitramkuwar
+
+💼 **LinkedIn**
+
+(www.linkedin.com/in/
+ankit-ramkuwar)
+
+🌍 **Live Project**
+
+https://roidai.netlify.app/
+
+---
+
+# 📌 Featured Project
+
+## 🚀 Roid AI
+
+A modern AI-powered web application built using JavaScript, HTML5, and CSS3.
+
+### Highlights
+
+- AI-powered conversations
+- Responsive UI
+- Progressive Web App (PWA)
+- Media handling
+- Markdown rendering
+- PDF generation
+- Modern frontend architecture
+
+🔗 Live Demo
+
+https://roidai.netlify.app/
+
+---
+
+# 💡 Philosophy
+
+> Great software isn't just about writing code.
+> It's about solving real problems with thoughtful design and continuous improvement.
+
+---
+
+⭐ Thanks for visiting my profile!
