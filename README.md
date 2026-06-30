@@ -101,11 +101,4 @@ https://roidai.netlify.app/
 
 ---
 
-# 💡 Philosophy
-
-> Great software isn't just about writing code.
-> It's about solving real problems with thoughtful design and continuous improvement.
-
----
-
 ⭐ Thanks for visiting my profile!
