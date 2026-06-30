@@ -1,35 +1,42 @@
 <h1 align="center">Hi 👋, I'm Ankit Ramkuwar</h1>
 
 <h3 align="center">
-Frontend Developer • AI Web Application Developer
+Frontend Developer • JavaScript Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-Building modern web experiences with JavaScript and AI.
+Building modern, fast and user-focused web experiences.
+</p>
+
+<p align="center">
+<a href="https://ankitramkuwardev.netlify.app/">Portfolio</a> •
+<a href="https://github.com/ankitramkuwar">GitHub</a> •
+<a href="mailto:ankitramkuwar@gmail.com">Email</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm a self-taught Frontend Developer from **Haryana, India** passionate about creating modern AI-powered web applications.
+I'm a self-taught Frontend Developer from Haryana, India who enjoys building modern web applications with clean UI, responsive design, and performance in mind.
 
-Currently I'm building **Roid AI**, a personal project focused on delivering fast, responsive, and intelligent web experiences.
+I'm passionate about frontend engineering, JavaScript, and creating products that solve real-world problems.
 
-I enjoy turning ideas into polished products through clean code, thoughtful UI, and continuous learning.
-
----
-
-# 🚀 Currently
-
-- 🔭 Building **Roid AI**
-- 🌱 Learning **React**, **TypeScript**, and **Node.js**
-- 💼 Looking for Frontend Developer opportunities
-- ⚡ Passionate about AI-powered web applications
+Currently, I'm expanding my knowledge of React, TypeScript, and modern web development while continuously improving my skills through personal projects.
 
 ---
 
-# 🛠 Tech Stack
+# Current Focus
+
+- Learning React.js
+- Learning TypeScript
+- Building modern web applications
+- Exploring Artificial Intelligence
+- Improving UI/UX and Web Performance
+
+---
+
+# Tech Stack
 
 ### Languages
 
@@ -41,64 +48,64 @@ I enjoy turning ideas into polished products through clean code, thoughtful UI, 
 
 - Responsive Web Design
 - Progressive Web Apps (PWA)
-- REST APIs
-- DOM Manipulation
+- REST API Integration
+- Modern UI Development
 
 ### Tools
 
 - Git
 - GitHub
-- VS Code
-
-### Interests
-
-- Artificial Intelligence
-- UI/UX
-- Product Development
-- Modern Web Applications
+- Visual Studio Code
+- Netlify
 
 ---
 
-# 🌐 Connect with Me
+# Portfolio
 
-📧 **Email**
+Explore my portfolio to learn more about my work, skills, and development journey.
+
+**Website**
+
+https://ankitramkuwardev.netlify.app/
+
+---
+
+# What You'll Find Here
+
+- Frontend development projects
+- JavaScript experiments
+- UI components
+- Responsive web designs
+- Continuous learning and improvements
+
+---
+
+# Connect With Me
+
+**Portfolio**
+
+https://ankitramkuwardev.netlify.app/
+
+**Email**
 
 ankitramkuwar@gmail.com
 
-🐙 **GitHub**
+**GitHub**
 
 https://github.com/ankitramkuwar
 
-💼 **LinkedIn**
+**LinkedIn**
 
-(www.linkedin.com/in/ankitramkuwar)
-
-🌍 **Live Project**
-
-https://roidai.netlify.app/
+(www.linkedin.com/in/ankit-ramkuwar)
 
 ---
 
-# 📌 Featured Project
+# Philosophy
 
-## 🚀 Roid AI
-
-A modern AI-powered web application built using JavaScript, HTML5, and CSS3.
-
-### Highlights
-
-- AI-powered conversations
-- Responsive UI
-- Progressive Web App (PWA)
-- Media handling
-- Markdown rendering
-- PDF generation
-- Modern frontend architecture
-
-🔗 Live Demo
-
-https://roidai.netlify.app/
+> "Great software isn't just about writing code. It's about creating experiences that solve real problems."
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+Thank you for visiting my GitHub profile.
+</p>
