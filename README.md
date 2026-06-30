@@ -100,12 +100,6 @@ https://github.com/ankitramkuwar
 
 ---
 
-# Philosophy
-
-> "Great software isn't just about writing code. It's about creating experiences that solve real problems."
-
----
-
 <p align="center">
 Thank you for visiting my GitHub profile.
 </p>
